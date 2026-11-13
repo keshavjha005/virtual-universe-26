@@ -11,6 +11,9 @@ reviewers see one layer at a time.
 >
 > You'll build a two-layer stack for Mona's café menu: espresso first, then
 > latte on top. Each layer becomes its own pull request.
+>
+> For a readable stack, each pull request should target the branch directly
+> below it; the latte pull request targets the espresso branch.
 
 ## Before you start (skip if you already signed in on Section 1)
 
